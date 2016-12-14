@@ -1,0 +1,15 @@
+[user]
+	email = balkov1@lenovo.com
+	name = Ben Alkov
+[core]
+	autocrlf = false
+[color "diff"]
+	new = green bold
+[color "status"]
+	updated = green bold
+[color "branch"]
+	current = green bold
+[merge]
+    tool = Meld
+[merge "tool"]
+    path = Meld
