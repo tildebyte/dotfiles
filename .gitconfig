@@ -13,3 +13,5 @@
     tool = Meld
 [merge "tool"]
     path = Meld
+[push]
+	default = simple
