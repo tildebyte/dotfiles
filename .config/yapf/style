@@ -1,0 +1,9 @@
+[style]
+based_on_style = google
+align_closing_bracket_with_visual_indent = true
+coalesce_brackets = true
+dedent_closing_brackets = false
+indent_dictionary_value = true
+split_arguments_when_comma_terminated = true
+split_before_logical_operator = true
+split_before_named_assigns = true
